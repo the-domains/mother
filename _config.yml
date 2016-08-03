@@ -1,0 +1,14 @@
+layout_spectrum: 0.5595953140873462
+typography_spectrum: 0.45556963770650327
+color:
+  brandStrength: 0.01625876221805811
+  lightness: 0.12384742335416377
+  saturation: 0.845659808954224
+  rhythmicContrast: 0.2360554477199912
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: mother
