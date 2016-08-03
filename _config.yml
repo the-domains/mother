@@ -1,4 +1,3 @@
-layout_spectrum: 0.5595953140873462
 typography_spectrum: 0.45556963770650327
 color:
   brandStrength: 0.01625876221805811
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.5595953140873462
 name: mother
 title: Mother Inc
+description: Always there for you
