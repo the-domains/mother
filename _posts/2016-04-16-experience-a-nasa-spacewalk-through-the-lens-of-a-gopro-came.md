@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T18:53:40.534Z'
+datePublished: '2016-08-03T19:07:09.246Z'
 sourcePath: >-
   _posts/2016-04-16-experience-a-nasa-spacewalk-through-the-lens-of-a-gopro-came.md
 inFeed: true
@@ -29,7 +29,8 @@ related:
       http://static-cdn1.ustream.tv/i/channel/picture/6/5/4/0/6540154/6540154_nasatv_public_hr_1330361732,640x360,b:1.jpg
     thumbnail_width: 360
 author: []
-dateModified: '2016-08-03T18:53:38.637Z'
+via: {}
+dateModified: '2016-08-03T19:07:07.378Z'
 title: Experience a NASA Spacewalk Through the Lens of a GoPro Camera
 app_links: []
 publisher:
@@ -37,17 +38,16 @@ publisher:
   name: PetaPixel
   favicon: 'http://petapixel.com/wp-content/themes/petapixel/assets/favicon.ico'
   domain: petapixel.com
-description: >-
-  Want to see what it's like to "walk" around in space outside the International
-  Space Station? NASA wants to show you. The agency recently strapped GoPro
-  cameras onto two astronauts to capture the wonder of spacewalks from their
-  perspective.
+description: Siia tuleb järgmine sisuosa
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Experience a NASA Spacewalk Through the Lens of a GoPro Camera</h1><p>Want to see what it's like to "walk" around in space outside the International Space Station? NASA wants to show you. The agency recently strapped GoPro cameras onto two astronauts to capture the wonder of spacewalks from their perspective.</p><img src="http://petapixel.com/assets/uploads/2015/04/spacewalk.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3d0f4303f6b7750f52857db8c393871f382887d.jpg" /><h1>Experience a NASA Spacewalk Through the Lens of a GoPro Camera</h1><p>Want to see what it's like to "walk" around in space outside the International Space Station? NASA wants to show you. The agency recently strapped GoPro cameras onto two astronauts to capture the wonder of spacewalks from their perspective.</p></article>
+
+Siia tuleb järgmine sisuosa
+
+# **Siia tuleb teise lehekülje jutt**
