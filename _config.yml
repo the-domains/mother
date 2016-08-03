@@ -6,9 +6,10 @@ color:
   saturation: 0.845659808954224
   rhythmicContrast: 0.2360554477199912
   brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: mother
+title: Mother Inc
