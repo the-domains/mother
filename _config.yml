@@ -12,5 +12,9 @@ color:
     - '#CEAFC0'
 layout_spectrum: 0.5595953140873462
 name: mother
+navigation:
+  - name: Finlandia Caviar Shop and Restaurant
+    id: 908d7223-2749-40a1-aeb9-5ec527c65da8
+    type: content
 title: Mother Inc
 description: Always there for you
